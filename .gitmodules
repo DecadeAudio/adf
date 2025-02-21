@@ -1,23 +1,23 @@
 [submodule "lib_nn"]
 	path = lib_nn
-	url = git@github.com:xmos/lib_nn.git
+	url = https://github.com/xmos/lib_nn.git
 	ignore = dirty
 [submodule "flatbuffers"]
 	path = flatbuffers
-	url = git@github.com:google/flatbuffers.git
+	url = https://github.com/google/flatbuffers.git
 	ignore = dirty
 [submodule "gemmlowp"]
 	path = gemmlowp
-	url = git@github.com:google/gemmlowp.git
+	url = https://github.com/google/gemmlowp.git
 	ignore = dirty
 [submodule "ruy"]
 	path = ruy
-	url = git@github.com:google/ruy.git
+	url = https://github.com/google/ruy.git
 	ignore = dirty
 [submodule "tensorflow"]
 	path = tensorflow
-	url = git@github.com:xmos/tensorflow.git
+	url = https://github.com/xmos/tensorflow.git
 	ignore = dirty
 [submodule "tflite-micro"]
 	path = tflite-micro
-	url = git@github.com:xmos/tflite-micro.git
+	url = https://github.com/xmos/tflite-micro.git
